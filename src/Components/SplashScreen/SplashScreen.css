@@ -1,0 +1,14 @@
+.SplashScreen{
+    height: 100vh;
+    width: 100vw;
+    background-color: wheat;
+    color: tomato;
+    border: turquoise 3px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
